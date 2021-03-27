@@ -1,0 +1,2 @@
+# StepikFlaskProject
+Flask educational project
