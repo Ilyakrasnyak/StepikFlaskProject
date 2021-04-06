@@ -29,4 +29,5 @@ def render_about(tour_id):
         abort(404)
 
 
-app.run(port=5021, debug=True)
+if __name__ == '__main__':
+    app.run()
